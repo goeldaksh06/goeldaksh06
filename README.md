@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hey! I’m Daksh Goel a Computer Engineering student passionate about Software Development, Machine Learning, and problem-solving.<br><br>I work primarily with C++, Python, and JavaScript, and I’m currently strengthening my skills in DSA, web development, backend systems, and core CS concepts.<br><br>I’m especially interested in Machine Learning and recommendation systems, with experience exploring concepts like collaborative filtering, matrix factorization, SVD, regression, clustering, and model evaluation.<br><br>I enjoy learning by building projects, experimenting with new technologies, and turning ideas into practical applications.<br><br>Always open to collaborating on interesting AI/ML, web development, and software projects.<br><br>Build → Break → Debug → Learn → Improve.
 
 
